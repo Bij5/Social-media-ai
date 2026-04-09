@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+venv/
+.venv/
+
+# API keys
+.env
+secrets.json
+
+# Output bestanden
+output/
+
+# OS bestanden
+.DS_Store
+Thumbs.db
